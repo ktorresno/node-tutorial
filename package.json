@@ -1,0 +1,16 @@
+{
+  "name": "node-modules-tutorial",
+  "version": "1.0.0",
+  "description": "This is a project to practice implementations using some of the modules into Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "js"
+  ],
+  "author": "Karen Torres",
+  "license": "ISC"
+}
